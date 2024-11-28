@@ -13,9 +13,10 @@
 # """
 
 # Use the print() function to print this message
-list = [2,7,8]
-list.append(9)
-print(list)
-# list = [4,7,8,9]
-# for i in range (0,4,1):
-#     print(list)
+print("--"*20)
+print("1. Add the List")
+print("2. Update the List")
+print("3. Delete the List")
+print("4. Traverse the List")
+print("5. Exit")
+print("--"*20)
