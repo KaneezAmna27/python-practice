@@ -1,49 +1,24 @@
-## FUNCTION
+If there are more than two question in `file.py`.
 
-Two Type of Function
+Write the first question code and run
 
-Some Return Value or None Return Value
+For the second question you have to comment out the first one.
 
-# Declare a Function
-
-## Without Any Parameter
-```
-def display():
-  print("Good Morning")
+For Example:
 
 ```
+Q1. WAP to print 1 to 10 with for loop
 
-## With Parameter
+Q2. WAP to print ....
 
-```
-def display(name):
-  print("Good Morning,", name)
+#comment the first answer than write another question
 
-name = "Your Name"
+'''
+for i in range(10):
+   print(i)
+'''
+
 
 ```
 
-In the Above Line of Code i have just declare the function not call it.
-
-
-## Calling a Function
-
-```
-def display(name): # declare a function
-  print("Good Morning,", name)
-
-name = "Your Name"
-
-display(name) # calling a function
-
-```
-
-remember your can user any variable name to put as argument
-
-# Some Question (Optional)
-
-
-* WAP program to add two number.
-* WAP program to sub two number.
-* WAP program to mult two number.
-* WAP program to div two number.
+DON'T Delete the first answer just comment just out 
